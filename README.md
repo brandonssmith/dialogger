@@ -1,6 +1,6 @@
 # Dialogger
 
-A Python application that converts audio files containing speech into SubRip Subtitle (SRT) format files.
+A Python application that converts audio files containing speech into SubRip Subtitle (SRT) format files. I designed this app to decode dialogue stems from a feature into SRT subtitle files. I do recommend running this through another app such as Subtitle Edit to clean up and small issues.
 
 ## Requirements
 
